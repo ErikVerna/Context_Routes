@@ -8,14 +8,21 @@ Experimental app to practice React Route (v5)
  -This was made with ⬇️
  
 <a href="https://es.reactjs.org/">
-<img align="center" alt="react" width="26px" src="https://icongr.am/devicon/react-original.svg?size=148&color=b31919" />
+<img align="left" alt="react" width="26px" src="https://icongr.am/devicon/react-original.svg?size=148&color=b31919" />
 </a>
 
 <a href="https://v5.reactrouter.com/web/guides/quick-start">
-<img align="center" alt="react-router" width="40px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--vtI2NHvd--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/q0lj87mz6whntv2zbxdm.png"
-
+<img align="left" alt="react-router" width="40px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--vtI2NHvd--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/q0lj87mz6whntv2zbxdm.png">
+</a>
 
 <a href="https://getbootstrap.com/">
 <img align="center" alt="" width="26px" src="https://icongr.am/devicon/bootstrap-plain.svg?size=148&color=51388a" />
 </a>
+
+<br />
+
+<hr />
+
+<span>Hosted in Vercel</span>
+
  
